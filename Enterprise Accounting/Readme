@@ -19,7 +19,8 @@ User can Insert, Update, Delete and View given Below in this project
  
  In this project have also create pdf file for reporting all oh form.
  
- <b>Finall Goal</b>
+ Finall Goal
+ 
  1. Reporting For all feature thay are: Head, Ledger, Trial Balance, Balance Sheet, Payable, Receiveable.\
  2. Also add UI and Setting.
  3. User List View
@@ -27,7 +28,7 @@ User can Insert, Update, Delete and View given Below in this project
  5. BackUp & Restore
  
  
- <b>Using Programming language and IDE</b>
+ Using Programming language and IDE
   
   1. Programming Language
        C#, Windows Form Application
