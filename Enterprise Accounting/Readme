@@ -1,1 +1,38 @@
 
+User can Insert, Update, Delete and View given Below in this project
+  1. Reference
+      Country, City     
+  2. Account
+       Head, Ledger, Voucher
+  3. Product
+       Brand, Unit, Price, Image, Category, New Product, Product Manual
+  4. Formula
+  5. Transcation
+       Voucher
+         Payment Voucher, Receive Voucher, Contra Voucher
+  6. Purchase
+  7. Sales
+  8. Damage
+  9. Production
+  10. Reports
+       Cash flow
+ 
+ In this project have also create pdf file for reporting all oh form.
+ 
+ <b>Finall Goal</b>
+ 1. Reporting For all feature thay are: Head, Ledger, Trial Balance, Balance Sheet, Payable, Receiveable.\
+ 2. Also add UI and Setting.
+ 3. User List View
+ 4. My Profile Create
+ 5. BackUp & Restore
+ 
+ 
+ <b>Using Programming language and IDE</b>
+  
+  1. Programming Language
+       C#, Windows Form Application
+  2. DataBase
+     Microsoft SQL Server
+  3. IDE
+      Visual Studio 2017
+      
